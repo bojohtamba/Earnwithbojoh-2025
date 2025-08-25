@@ -1,0 +1,46 @@
+region,city,country,tier (Top | Medium | Low Cost),name,stars (1-5),price_hint,image_url,official_url,affiliate_url,notes
+Littoral,Douala,Cameroon,Top,Pullman Douala Rabingha,5,$180–$260,ADD_IMAGE_URL,https://all.accor.com/hotel/1980/index.en.shtml,,"City-center, pool, river views."
+Littoral,Douala,Cameroon,Top,Krystal Palace Hotel Douala,5,$170–$240,ADD_IMAGE_URL,https://krystalpalacehotel.com/,,"Modern luxury, rooftop pool."
+Littoral,Douala,Cameroon,Top,Hôtel Akwa Palace,4,$140–$220,ADD_IMAGE_URL,https://www.hotelakwapalace.com/,,"Historic property, business-friendly."
+Littoral,Douala,Cameroon,Top,Hotel Sawa,4,$120–$190,ADD_IMAGE_URL,https://www.hotelsawa.com/,,"Riverside, large pool, events."
+Littoral,Douala,Cameroon,Top,Star Land Hotel Bonapriso,4,$130–$200,ADD_IMAGE_URL,,,"Business district, gym."
+Littoral,Douala,Cameroon,Top,ONOMO Hotel Douala,4,$110–$180,ADD_IMAGE_URL,https://www.onomohotel.com/en/hotel/onomo-hotel-douala,,"Contemporary, close to airport."
+Littoral,Douala,Cameroon,Top,La Falaise Bonanjo,4,$120–$190,ADD_IMAGE_URL,https://lafalaise.com/bonanjo,,"Central Bonanjo, meetings."
+Littoral,Douala,Cameroon,Top,Hotel Bano Palace,4,$90–$150,ADD_IMAGE_URL,https://www.banopalace.com/,,"Pool, spa, popular choice."
+Littoral,Douala,Cameroon,Top,Hotel Vallée des Princes,4,$95–$150,ADD_IMAGE_URL,,,"Central Akwa, conference rooms."
+Littoral,Douala,Cameroon,Top,Prince de Galles Hotel Douala,4,$100–$160,ADD_IMAGE_URL,,,"Classic style, restaurant."
+Littoral,Douala,Cameroon,Top,Somatel Hotel Bonapriso,4,$100–$160,ADD_IMAGE_URL,,,"Quiet area, business-friendly."
+Littoral,Douala,Cameroon,Top,Lewat Hotel,4,$100–$160,ADD_IMAGE_URL,,,"Modern rooms, city access."
+Littoral,Douala,Cameroon,Top,Planet Hotel Douala,4,$100–$160,ADD_IMAGE_URL,,,"Central location, dining."
+Littoral,Douala,Cameroon,Top,Makepe Palace Hotel,4,$90–$140,ADD_IMAGE_URL,,,"Makepe area, events."
+Littoral,Douala,Cameroon,Top,Noubou International Hotel,4,$110–$170,ADD_IMAGE_URL,,,"Upscale, Bonapriso/Bonanjo axis."
+Littoral,Douala,Cameroon,Medium,Hotel Résidence La Falaise Akwa,3,$60–$100,ADD_IMAGE_URL,,,"Akwa, practical."
+Littoral,Douala,Cameroon,Medium,Hotel Astoria Douala,3,$55–$95,ADD_IMAGE_URL,,,"Central, straightforward."
+Littoral,Douala,Cameroon,Medium,Hotel La Vallée de Grace,3,$50–$90,ADD_IMAGE_URL,,,"Comfortable, value."
+Littoral,Douala,Cameroon,Medium,Hotel Royal Palace Douala,3,$55–$95,ADD_IMAGE_URL,,,Near business areas.
+Littoral,Douala,Cameroon,Medium,Hotel La Renaissance,3,$50–$85,ADD_IMAGE_URL,,,"Simple, clean."
+Littoral,Douala,Cameroon,Medium,Hotel White Star,3,$55–$90,ADD_IMAGE_URL,,,"Akwa, convenient."
+Littoral,Douala,Cameroon,Medium,Hotel Le Chateau Douala,3,$55–$95,ADD_IMAGE_URL,,,Good access.
+Littoral,Douala,Cameroon,Medium,Hotel La Chaumière,3,$50–$90,ADD_IMAGE_URL,,,Cozy vibe.
+Littoral,Douala,Cameroon,Medium,Hotel Résidence La Couronne,3,$50–$85,ADD_IMAGE_URL,,,Residence-style.
+Littoral,Douala,Cameroon,Medium,Hôtel Résidence La Prunelle,3,$50–$85,ADD_IMAGE_URL,,,Budget-friendly suites.
+Littoral,Douala,Cameroon,Medium,Hotel Résidence La Concorde,3,$50–$90,ADD_IMAGE_URL,,,Central access.
+Littoral,Douala,Cameroon,Medium,Hotel La Savane Douala,3,$50–$85,ADD_IMAGE_URL,,,Value pick.
+Littoral,Douala,Cameroon,Medium,Hotel Résidence Sphinx,3,$50–$85,ADD_IMAGE_URL,,,Residence-type rooms.
+Littoral,Douala,Cameroon,Medium,Hotel Résidence Jully,3,$45–$80,ADD_IMAGE_URL,,,Comfort on budget.
+Littoral,Douala,Cameroon,Medium,Hotel Résidence Nana,3,$45–$80,ADD_IMAGE_URL,,,Basic comforts.
+Littoral,Douala,Cameroon,Low Cost,Hôtel Beausejour Mirabel,2,$35–$55,ADD_IMAGE_URL,,,"Central, basic amenities."
+Littoral,Douala,Cameroon,Low Cost,Hotel Serena Douala,2,$30–$50,ADD_IMAGE_URL,,,"Simple, central."
+Littoral,Douala,Cameroon,Low Cost,Hotel Le Bon Berger,2,$30–$50,ADD_IMAGE_URL,,,"Budget, clean."
+Littoral,Douala,Cameroon,Low Cost,Hotel Le Particulier,2,$30–$50,ADD_IMAGE_URL,,,Guesthouse style.
+Littoral,Douala,Cameroon,Low Cost,Hotel La Veranda,2,$30–$50,ADD_IMAGE_URL,,,"Quiet, basic."
+Littoral,Douala,Cameroon,Low Cost,Hotel Le Logis,2,$28–$45,ADD_IMAGE_URL,,,No-frills.
+Littoral,Douala,Cameroon,Low Cost,Hotel Le Comfort,2,$28–$45,ADD_IMAGE_URL,,,Affordable.
+Littoral,Douala,Cameroon,Low Cost,Hotel Le Voyageur,2,$28–$45,ADD_IMAGE_URL,,,Transit-friendly.
+Littoral,Douala,Cameroon,Low Cost,Hotel L'Oasis Douala,2,$28–$45,ADD_IMAGE_URL,,,Basic rooms.
+Littoral,Douala,Cameroon,Low Cost,Hotel du Plateau,2,$25–$40,ADD_IMAGE_URL,,,Very budget.
+Littoral,Douala,Cameroon,Low Cost,Hotel le Relais Douala,2,$25–$40,ADD_IMAGE_URL,,,"Basic, central-ish."
+Littoral,Douala,Cameroon,Low Cost,Hotel La Concorde Budget,1,$22–$35,ADD_IMAGE_URL,,,Budget branch.
+Littoral,Douala,Cameroon,Low Cost,Hotel La Clarté,1,$22–$35,ADD_IMAGE_URL,,,Essential amenities.
+Littoral,Douala,Cameroon,Low Cost,Hotel Le Perchoir,1,$22–$35,ADD_IMAGE_URL,,,"Guesthouse, cheap."
+Littoral,Douala,Cameroon,Low Cost,Hotel La Couronne Budget,1,$22–$35,ADD_IMAGE_URL,,,Annex/budget wing.
